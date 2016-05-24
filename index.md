@@ -2,6 +2,8 @@
 
 暗号通貨（Bitcoin等）およびその派生プロダクトに関する用語や技術的な解説です。
 
+[Twitter](https://twitter.com/intent/tweet?url=http://crypto-users.jp/cryptocurrency-knowledgebase-ja&text=暗号通貨用語集)
+
 ## Augur（オーガー）
 
 イーサリアム上で証券取引所に依存しない、分散型デリバティブ取引市場を開拓。
@@ -193,3 +195,5 @@ Slockはブロックチェーンを使い、セキュアなIoTサービスを提
 英語表記はWallet。ビットコインを保管しておくための財布のこと。スマートフォンアプリやデスクトップのウォレット、紙のペーパーウォレットや鉄製のメタルウォレットなど
 
 ## WAVES
+
+[Twitter](https://twitter.com/intent/tweet?url=http://crypto-users.jp/cryptocurrency-knowledgebase-ja&text=暗号通貨用語集)
