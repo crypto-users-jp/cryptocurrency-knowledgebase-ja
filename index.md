@@ -51,7 +51,7 @@ Bitcoinのブロックチェーン上に作られた、分散型金融システ�
 
 仮想通貨の一種で、暗号技術によって誰からも不正な取引や操作ができないようになっている通貨。ハッシュや公開鍵、秘密鍵などの暗号を解くことで生成される。
 
-## DAO (Decentralized autonomous organization)（ダオ）
+## DAO (Decentralized autonomous organization)（ディーエーオー）
 
 分散型自動化組織、分散型自律組織とも訳される。
 
